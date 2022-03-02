@@ -32,10 +32,7 @@ class _BodyState extends State<Body> {
         Navigator.push(
         context, MaterialPageRoute(builder: (context)=>myhomepage(this.name)));
   }
-  void press(){
-     Navigator.push(
-        context, MaterialPageRoute(builder: (context)=>mytaskpage(this.bol)));
-  }
+ 
   
   @override
   Widget build(BuildContext context) {
@@ -58,16 +55,7 @@ class _BodyState extends State<Body> {
     ),
     )
    ),),
-   Expanded(child: IconButton(
-     onPressed: this.press,
-    icon: Icon(Icons.task_alt),
-    splashColor: Colors.black,
-    splashRadius: 220,
-    highlightColor: Colors.lightBlue,
-    tooltip: 'task page',
-    iconSize: 80,
-    alignment: Alignment.center,
-    ))
+   
    ]);
   }
 }

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:robert_brunhage_app/loginpage.dart';
+import 'package:robert_brunhage_app/new_login.dart';
 import 'postlist.dart';
 import 'textinputwidget.dart';
 import 'myhomepage.dart';
@@ -22,7 +23,7 @@ class MyApp extends StatelessWidget {
         primaryColorDark: Colors.black,
         visualDensity: VisualDensity.adaptivePlatformDensity
       ),
-      home: loginpage(),
+      home: newloginpage(),
     );
   }
 }

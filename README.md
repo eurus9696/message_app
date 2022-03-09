@@ -1,9 +1,9 @@
+
 # Message app with to-do
 
 A new Flutter project.
 
-## Getting Started
-
+Getting Started
 This project is a starting point for a Flutter application.
  
  This application is made for the sole purpose of learing flutter and applying it is a real application
@@ -13,4 +13,4 @@ This project is a starting point for a Flutter application.
                             
                             2. api for time and other usefull features
 
-The starting of the application is inspired from techwithtim .
+

@@ -1,10 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:robert_brunhage_app/loginpage.dart';
-import 'package:robert_brunhage_app/new_login.dart';
-import 'postlist.dart';
-import 'textinputwidget.dart';
-import 'myhomepage.dart';
-import 'post.dart';
+import 'package:message_app/new_login.dart';
 
 void main() {
   runApp(const MyApp());

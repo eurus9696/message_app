@@ -1,10 +1,8 @@
 
-# Message app with to-do
-
-A new Flutter project.
+# TO-DO
 
 Getting Started
-This project is a starting point for a Flutter application.
+This project is still under development
  
  This application is made for the sole purpose of learing flutter and applying it is a real application
  features to be added are : 
